@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onyekaokonji
-- 👀 I’m interested in Computer Vision Learning opportunities
-- 🌱 I’m consistently learning on new architectures and applications of Computer Vision especially as regards to Medicine
+- 👀 I’m interested in Machine Learning Engineer opportunities
+- 🌱 I’m consistently learning on new technologies with respect to Machine Learning particularly Computer Vision
 - 📫 I can be reached via mail @ onyekaokonji@gmail.com
 
 <!---
