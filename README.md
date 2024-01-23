@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @onyekaokonji
+- 👋 Hi, I’m Onyeka Okonji
 - 👀 I’m interested in Machine Learning Engineer opportunities
-- 🌱 I’m consistently learning on new technologies with respect to Machine Learning particularly Computer Vision
+- 🌱 I’m consistently learning on new technologies with respect to Machine Learning particularly Computer Vision and Natural Language Processing.
 - 📫 I can be reached via mail @ onyekaokonji@gmail.com
 
 <!---
